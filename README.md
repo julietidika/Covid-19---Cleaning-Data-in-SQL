@@ -36,4 +36,14 @@ Through SQL analysis, this project achieved multiple impactful outcomes:
 
 The analysis yielded actionable and previously hidden insights into COVID-19 growth trajectories while underscoring SQL's capabilities for knowledge discovery. This project demonstrated how data science can guide evidence-based pandemic response through early warning systems, predictive tracking, and risk identification. The analytical methodology and visualization tools developed could assist policymakers to deploy resources for maximal community impact.
 
-Let me know if you would like any clarification or have additional questions!
+
+DROP TABLE if exists #PercentPopulationVaccinated
+Create Table #PercentPopulationVaccinated
+(
+Continent nvarchar(255),
+Location nvarchar(255),
+Date datetime,
+Population numeric,
+New_vaccinations numeric,
+RollingPeopleVaccinated numeric
+)
