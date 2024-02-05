@@ -36,5 +36,7 @@ Through SQL analysis, this project achieved multiple impactful outcomes:
 
 The analysis yielded actionable and previously hidden insights into COVID-19 growth trajectories while underscoring SQL's capabilities for knowledge discovery. This project demonstrated how data science can guide evidence-based pandemic response through early warning systems, predictive tracking, and risk identification. The analytical methodology and visualization tools developed could assist policymakers to deploy resources for maximal community impact.
 
+Kindly View the Script Here - https://github.com/julietidika/Covid-19---Cleaning-Data-in-SQL/blob/main/Covid%2019%20exploration.sql
+
 
 
