@@ -1,4 +1,4 @@
-# Covid-19---Cleaning-Data  View the SQL Script
+# Covid-19---Cleaning-Data  
 
 **INTRODUCTION**
 
